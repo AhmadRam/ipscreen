@@ -15,9 +15,9 @@
 
     @yield('seo')
 
-    <link rel="icon" href="{{ asset('assets/images/img001.video2b.com/1818/file1666229369504.png') }}"
+    <link rel="icon" href="{{ asset('assets/images/logo2.png') }}"
         type="image/x-icon" />
-    <link rel="shortcut icon" href="{{ asset('assets/images/img001.video2b.com/1818/file1666229369504.png') }}"
+    <link rel="shortcut icon" href="{{ asset('assets/images/logo2.png') }}"
         type="image/x-icon" />
 
     <!-- css -->
@@ -73,7 +73,7 @@
                     <div class="_head_bottom">
                         <div class="logo">
                             <a href="/">
-                                <img head_logo_src="{{ asset('assets/images') }}"
+                                <img head_logo_src="{{ asset('assets/images/logo.png') }}"
                                     alt="IP SCREEN">
                             </a>
                         </div>
@@ -389,8 +389,8 @@
                                 <section template-edit="common_footer_txt6_languages" module_name="footer">
                                     <p><a data-cke-saved-href="/"
                                             href="/" rel=""><img alt=""
-                                                data-cke-saved-src="{{ asset('assets/images/') }}"
-                                                src="{{ asset('assets/images/') }}"
+                                                data-cke-saved-src="{{ asset('assets/images/logo.png') }}"
+                                                src="{{ asset('assets/images/logo.png') }}"
                                                 style="width: 250px; height: 61px;"></a></p>
                                 </section>
                             </div>
