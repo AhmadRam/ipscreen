@@ -150,7 +150,7 @@
             </div>
         </div>
 
-        <div class="tem_picture_2 no_bg_src content-section" id="v6352508c97f4c" module_id="5018" bg_img_url=""
+        {{-- <div class="tem_picture_2 no_bg_src content-section" id="v6352508c97f4c" module_id="5018" bg_img_url=""
             module_type="module">
 
             <div class="container">
@@ -184,7 +184,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
     </div>
 @endsection
